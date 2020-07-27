@@ -1,5 +1,5 @@
 title = "Harum Scriptor"
-baseURL = "https://harumscriptor.now.sh"
+baseURL = "https://harumscriptor.netlify.app"
 languageCode = "pt-br"
 theme = "hugo-theme-ananke"
 
