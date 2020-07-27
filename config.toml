@@ -1,0 +1,4 @@
+baseURL = "http://www.harumscriptor.com/"
+languageCode = "pt-br"
+title = "Harum Scriptor"
+theme = "hugo-theme-ananke"
