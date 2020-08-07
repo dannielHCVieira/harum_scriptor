@@ -2,7 +2,7 @@
 layout: blog
 title: "Primeiros passos com o Arduino "
 date: 2020-08-06T21:36:23.231Z
-thumbnail: static/images/uploads/arduinouno_r3_front.jpg
+thumbnail: static/images/uploads/foto1blog.png
 rating: 5
 ---
 ### O que é "Arduino"
